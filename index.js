@@ -390,4 +390,4 @@ bot.on('guildMemberAdd', async member => {
 
 
 
-bot.login("ODg3MDI3NzgzMTI4MjE5NjY4.YT-K_w.Ilzs2NEqqOGv_psgrZQVcqmu2Oc");
+bot.login("");
